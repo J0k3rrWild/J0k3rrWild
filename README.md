@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 ![banner](https://github.com/J0k3rrWild/J0k3rrWild/blob/master/Mountain%20Landscape%20Photography%20Etsy%20Banner.png)
 
 # 📈Github Stats
-<br>
-[![My github stats](https://github-readme-stats.vercel.app/api?username=J0k3rrWild&theme=blue-green)(https://github.com/J0k3rrWild/)
+![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=J0k3rrWild&theme=blue-green)
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=J0k3rrWild)](https://github.com/J0k3rrWild)
+
