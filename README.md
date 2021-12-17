@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 # 📈Github Stats
 <br>
-![](https://github-readme-stats.vercel.app/api?username=J0k3rrWild&theme=blue-green)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=J0k3rrWild&theme=blue-green)(https://github.com/J0k3rrWild/)
