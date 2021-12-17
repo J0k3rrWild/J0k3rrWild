@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 # 📈Github Stats
-![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=J0k3rrWild&theme=blue-green)(https://github.com/J0k3rrWild/)
+![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=J0k3rrWild&theme=blue-green)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=J0k3rrWild&theme=blue-green)(https://github.com/J0k3rrWild/)
+![My github stats](https://github-readme-stats.vercel.app/api?username=J0k3rrWild&theme=blue-green)
 
