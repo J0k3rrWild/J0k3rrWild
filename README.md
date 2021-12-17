@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 # 📈Github Stats
 ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=J0k3rrWild&theme=blue-green)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=J0k3rrWild)](https://github.com/J0k3rrWild)
+![My github stats](https://github-readme-stats.vercel.app/api?username=J0k3rrWild&theme=blue-green)
 
