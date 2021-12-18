@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner](https://github.com/J0k3rrWild/J0k3rrWild/blob/master/Mountain%20Landscape%20Photography%20Etsy%20Banner.png)
+![banner](https://github.com/J0k3rrWild/J0k3rrWild/blob/master/Mountain%20Landscape%20Photography%20Etsy%20Banner(1).png)
 
 # 📢PLEASE NOTE!
 <b>All my repos are private now!</b>
