@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![banner](https://github.com/J0k3rrWild/J0k3rrWild/blob/master/Mountain%20Landscape%20Photography%20Etsy%20Banner(1).png)
 
 # ⚡About Me
-Active plugin developer for the pocketmine engine for API 3.x and 4.x<br>
+Active pocketmine engine plugin developer for API 3.x and 4.x<br>
 I also create websites from the backend side
 
 # 🔥Technologies I have experiece with
