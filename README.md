@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am a self-taught person who loves programming. Programming allows me to give reins to my fantasies, ideas and gives me the opportunity to create very interesting things that will allow me to develop.
 
-What I doing for now?
+What I am doing for now?
 
 I am...
 
