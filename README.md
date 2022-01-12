@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 ![banner](https://github.com/J0k3rrWild/J0k3rrWild/blob/master/Mountain%20Landscape%20Photography%20Etsy%20Banner(1).png)
 
 # ⚡About Me
+
+I am a self-taught person who loves programming. Programming allows me to give reins to my fantasies, ideas and gives me the opportunity to create very interesting things that will allow me to develop.
+
+What I doing for now?
+
+I am...
+
 * Active pocketmine engine plugin developer for API 3.x and 4.x<br>
 * Creating websites from the backend side
 
